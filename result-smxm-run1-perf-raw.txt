@@ -1,0 +1,15 @@
+Compiling pmxm.c with OpenMP support...
+Compilation successful.
+Running the matrix multiplication program with problem size 2024 and threads 8...
+Total time: 32.151214 seconds
+Initialization time: 0.235243 seconds
+Computation time: 31.915967 seconds
+Memory usage: 95476 kilobytes
+
+ Performance counter stats for 'system wide':
+
+          3,367.34 Joules power/energy-pkg/                                                     
+            308.53 Joules power/energy-ram/                                                     
+
+      32.439197566 seconds time elapsed
+

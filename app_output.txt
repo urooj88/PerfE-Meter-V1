@@ -1,0 +1,4 @@
+Runtime: 32.96 seconds
+Package Energy: 3434.35 J (104.20 W avg)
+DRAM Energy: 315.91 J (9.58 W avg)
+Total Energy: 3750.26 J (113.78 W avg)

@@ -1,0 +1,2 @@
+Expected Baseline Energy: 3636.31 J
+Dynamic Energy: 113.95 J

@@ -1,0 +1,14 @@
+=== Measurement Results ===
+Baseline CPU Energy: 5955.07 Joules
+Baseline RAM Energy: 557.81 Joules
+Total Baseline Energy: 6512.88 Joules
+Baseline Power: 108.548000 Watts
+
+=== Application Performance ===
+Average Execution Time: 32.995706 seconds
+Average Total Energy Consumed by exes-mxm3: 3733.650000 Joules
+Average Dynamic Energy Consumed by exes-mxm3: 152.032037 Joules
+
+=== Energy Efficiency Metrics ===
+Average Power Consumption: 113.155633 Watts
+Energy Efficiency (Dynamic Energy per Second): 4.607630 Joules/s

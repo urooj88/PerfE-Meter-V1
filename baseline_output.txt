@@ -1,0 +1,6 @@
+Package Energy: 6054.67 J
+DRAM Energy: 564.90 J
+Total Energy: 6619.57 J
+Package Power: 100.91 W
+DRAM Power: 9.41 W
+Total Power: 110.33 W
