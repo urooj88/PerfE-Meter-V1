@@ -61,6 +61,14 @@ https://phoenixnap.com/kb/linux-perf
 sudo ./run_perf_energymeasure_pmxm.sh --app-type parallel
 
 
+## Acknowledgements
+
+This research was developed at the **[HPC-Nexus Lab](https://www.hpcnexuslab.ie/)**, Technological University Dublin, Ireland.
+
+**PhD Funding:** My PhD research is funded by the **Irish Research Council (IRC)**.
+
+
+
 
 
 
